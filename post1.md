@@ -146,17 +146,16 @@ This is an example of an intransitive verb turning into a transitive verb. Norma
 1a. 
 宋人耕田。
 
-A Song person plows the field.
-
-> A Song person means a citizen of Song country/state
+Song people plow the field.
 
 宋人有耕田者。
-Among the Song people, there is a field plow person.
+
+Among the Song people, there is a field-plowing person.
 
 1b. 
 耕田者宋人也。
 
-The field flow person is a Song person.
+The field-plowing person is a Song person.
 
 耕田者有宋人。
 
@@ -305,60 +304,210 @@ Now [under these circumstances], those who want to use the former kings' governa
 
 ### Exercises
 
+> Note: there are no spaces between the words in the sentences, I just made it that way to show the separation between topic and comment better.
+
+#### Section A
+
 1a.
 ```
 涉江者 求劍。
 T     C
 ```
+The river crosser seeks the sword.
 
 ```
 劍者，涉江者所求也。
 T    C
 ```
+The sword is what the river crosser seeks.
 
 ```
 求者 已行而所求不行。
 T   C
 ```
+The seeker already moved but what the seeker seeks does not move.
 
 1b.
 ```
-耕者守株。
+耕者 守株。
+T    C
+```
+The plower guards the stump.
 
 ```
+耕者之所守，株也。
+T         C
+```
+The object that the plower guards is the stump.
 
+1c.
+```
+宋人笑 守株之耕者。
+T     C
+```
+The Song people laugh at stump-guarding plowers.
+
+```
+守株之耕者，宋人所笑也。
+T         C
+```
+Stump-guarding plowers are the people which Song people laugh at.
 
 1d.
 
 ```
-其子言盗必至。
- T     C 
+其子 言盗必至。
+T    C 
 ```
+His son said the robbers will certainly arrive.
+
 ```
-鄰人之父亦言盜必至 。
-T             C
+鄰人之父 亦言盜必至 。
+T       C
 ```
+The neighbour's father also said the robbers will certainly arrive.
+
 ```
-以其子所言為可貴。
-T                     C
+以其子所言 為可貴。
+T         C
 [praiseworthy, commendable]
 ```
+[He] takes what his son says to be praiseworthy.
+
 
 ```
-以鄰人之父所言為可疑。
-T                            C
+以鄰人之父所言 為可疑。
+T            C
 ```
-其家疑鄰人之父。
-T      C
+[He] takes what the neighbour's father says to be suspicious.
 
+```
+其家 疑鄰人之父。
+T    C
+```
+His family is suspicious of the neighbour's father.
+
+```
 鄰人之父，其家所疑也。
-T                C
+T        C
+```
+The neighbour's father is who his family is suspicious of.
 
-2a
-
-兔行田中。
+2a.
+```
+兔 行田中。
 T  C
+```
+The rabbit travels within the field.
 
-兔所行 ，富人之田也 。
+```
+兔所行，富人之田也。
+T      C
+```
+The place which the rabbit travels in is the rich people's field. 
+
+2b.
+```
+盜 至。
+T  C
+```
+The robber arrives.
+
+```
+盜 至於壞牆。
+T  C
+```
+The robber arrives at the broken wall.
+
+```
+盜所至者，壞牆也。
+T        C
+```
+The place which the robber arrives at is the broken wall.
+
+```
+盜所至之牆，已壞矣。
+T         C
+```
+The wall which the robber arrives at is already broken.
+
+3a.
+```
+劍 從舟墜於水。
+T  C
+```
+The sword, from the boat, falls into the water.
+
+```
+劍之所從墜於水者，舟也。
+T              C
+```
+The place from which the sword falls into the water is the boat.
+
+```
+楚人 刻舟。
+T    C
+```
+A Chu person cuts the boat.
+
+```
+楚人 刻其劍之所從墜於水者。
+T    C
+```
+A Chu person cuts where his sword fell into the water.
+
+3b.
+```
+宋人 以耒耕田。
+T    C
+```
+Song people use a plow to plow the field.
+
+```
+宋人所以耕田者，耒也。
 T             C
+```
+The thing that the Song people use to plow the field is a plow.
 
+#### Section B
+
+a.
+富人亡其財。 -> 富人所亡，其財也。
+What the wealthy people lose is their wealth.
+
+b.
+耕者待兔。 -> 耕者所待，兔也。
+What the plower waits for is the rabbit.
+
+c.
+宋人笑其守株待兔。 -> 宋人所笑，其守株待兔也。
+What the Song people laughs at is them, who guard the stump waiting for rabbits.
+
+d.
+盗出於窗。 -> 盗所出於，窗也。
+The place which the robber exits through is the window.
+
+#### Section C
+
+1\.
+盗從山中至。 -> 盗所從至，山中也。
+The place which the robber arrived from is the mountain. 
+
+2\.
+王以政殺民。 -> 王所以殺民，政也。
+The thing that the king uses to kill the people is governance.
+
+3\.
+以其所言疑之。 -> 之所其言，疑也。
+
+> Not too sure about this one. Tried to write out an English translation first for the first sentence to then transform it into the second Chinese sentence.
+
+[He] takes what they say to be suspicious of it.
+
+The words they say, [he] is suspicious.
+
+# Lesson 5
+
+### Questions
+
+### Exercises
